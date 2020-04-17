@@ -1,5 +1,5 @@
 class first{  
     public static void main(String args[]){  
-     System.out.println("Hello Java this is my sixth commit");  
+     System.out.println("Hello Java this is my next commit");  
     }  
 } 
